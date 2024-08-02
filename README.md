@@ -5,6 +5,12 @@ In the e-commerce sector, customer churn represents a critical challenge that ca
 
 **Dataset**: Ecommerce Customer Churn Analysis and Prediction [[source]](https://www.kaggle.com/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
 
+## Goals 
+**Reduce Customer Churn:** by identifing and targeting high-risk customers to improve retention and increase customer lifetime value, leading to enhanced revenue stability.
+
+**Optimize Marketing Spend:** Use segmentation insights to allocate marketing resources more effectively, boosting ROI and driving higher engagement and conversions.
+
+
 ## Libraries Used
 - **Pandas**: Data manipulation and analysis.
 - **NumPy**: Numerical operations and data manipulation.
@@ -14,11 +20,6 @@ In the e-commerce sector, customer churn represents a critical challenge that ca
 - **SciPy**: Scientific and statistical functions.
 
 
-
-## Goals 
-**Reduce Customer Churn:** by identifing and targeting high-risk customers to improve retention and increase customer lifetime value, leading to enhanced revenue stability.
-
-**Optimize Marketing Spend:** Use segmentation insights to allocate marketing resources more effectively, boosting ROI and driving higher engagement and conversions.
 
 ## Dataset Understanding 
 
