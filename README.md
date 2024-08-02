@@ -20,7 +20,7 @@ In the e-commerce sector, customer churn represents a critical challenge that ca
 
 **Optimize Marketing Spend:** Use segmentation insights to allocate marketing resources more effectively, boosting ROI and driving higher engagement and conversions.
 
-## Dataset Understanding
+## Dataset Understanding 
 
 | **Attribute** | **Data Type** | **Description** |
 | --- | --- | --- |
