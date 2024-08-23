@@ -62,6 +62,4 @@ In the e-commerce sector, customer churn represents a critical challenge that ca
 ## Insights
 * This dataset has 5630 observations and 20 variables with 15 numerical variables, 5 categorical variables and 2 target variable.
 * From the data visualization, it is obtained that the churn ratio has a correlation with tenure, complaints, cashback Amount, & preferred order cat.
-* The results of predicting churn are strongly influenced by the level of Tenure, Complaint, Number of Addresses, and cashback Amount.
-
 
