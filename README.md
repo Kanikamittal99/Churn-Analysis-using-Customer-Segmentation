@@ -62,4 +62,11 @@ In the e-commerce sector, customer churn represents a critical challenge that ca
 ## Insights
 * This dataset has 5630 observations and 20 variables with 15 numerical variables, 5 categorical variables and 2 target variable.
 * From the data visualization, it is obtained that the churn ratio has a correlation with tenure, complaints, cashback Amount, & preferred order cat.
+* Male customers (10.7%) churn more on e-commerce than female customers (6.2%). The assumption is because male users will churn after finding the item they are looking for.
+* Customers who churn more have a Satisfaction Score of 3 (5.1%). However, there are also those who have a customer satisfaction score of 5 but still churn, at 4.7%. This shows that customer satisfaction does not affect customers to churn.
+* Customers who file more complaints (9.0%) have a greater potential to churn than those who do not file complaints (7.8%). This is possible because customers who file complaints feel dissatisfied with the existing service.
+* Customers who are still single tend to churn by 8.2%. The assumption is that because they are still single, so they don't buy many necessities.
+* Customers who churn more choose to buy mobile phones by 9.6%. The assumption is because of the need to buy mobile phones every year. Even so, mobile phone purchases tend to be one-time or one-time purchases so there is no need for a second and third purchase at relatively the same time.
+* Customers who churn by 11% tend to log in using a mobile phone rather than a computer. This can be made into a strategy to retain customers by providing discount coupons if they log in using a mobile phone.
+* It can be concluded that customers who tend to churn are male, satisfaction score 3, more complaints, more purchases of mobile phones and login using mobile phones.
 
