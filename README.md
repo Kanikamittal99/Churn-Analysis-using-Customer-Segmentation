@@ -17,7 +17,6 @@ In the e-commerce sector, customer churn represents a critical challenge that ca
 - **Matplotlib**: Plotting and visualization.
 - **Seaborn**: Statistical data visualization.
 - **Scikit-learn**: Machine learning algorithms and preprocessing.
-- **SciPy**: Scientific and statistical functions.
 
 
 
