@@ -1,4 +1,4 @@
-# Churn Analysis Using Customer Segmentation in E-Commerce
+# 🛍️ Churn Analysis Using Customer Segmentation in E-Commerce 
 
 ## Problem Statement
 In the e-commerce sector, customer churn represents a critical challenge that can significantly impact business sustainability and profitability. Understanding the factors leading to customer churn is essential for developing effective retention strategies. This project aims to analyze an e-commerce dataset to identify patterns and characteristics associated with customer churn, and to develop segmentation models that can help target at-risk customers and optimize marketing efforts.
